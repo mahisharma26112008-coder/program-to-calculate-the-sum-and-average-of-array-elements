@@ -1,0 +1,1 @@
+# program-to-calculate-the-sum-and-average-of-array-elements
